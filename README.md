@@ -1,30 +1,19 @@
-### Hi 
 
-
-
-
-
-
-
-
-
-
--->
 # Hey There! I am Shineka<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/d80d2a9b4335b148a378c.jpg" width="150px" height="150px" /></a> |
+| <a href="https://t.me/DIPUID"><img src="https://te.legra.ph/file/9a9c46211a805f18fd77b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Dᴀᴍᴀɴᴛʜᴀ Jᴀsɪɴɢʜᴇ ֍🇱🇰](https://t.me/damantha_jasinghe)**                                                                                |
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/Damantha_Jasinghe"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
+|       **[Shineka ֍🇮🇳](https://t.me/DIPUID)**                                                                                |
+| <a href="https://t.me/DIPUID"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dipugamingwith"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Dtech Corporation  <br>
+-  🚶‍ &nbsp; I live in : india 🇮🇳  <br>
+-  🔭 I’m currently working on : Shineka Corporation  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://damantha.ga-brightgreen) <br>
