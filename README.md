@@ -10,7 +10,7 @@
 
 
 -->
-# Hey There! I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There! I am Shineka<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
