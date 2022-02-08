@@ -42,12 +42,12 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center">
   <a href="https://github.com/TheShineka">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShineka#version3"/>
   </a>
 </p>
 <a href="h
 
-  <a href="https://github.com/TheShineka"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/TheShineka"><img alt="TheShineka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheShineka&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -75,16 +75,16 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShineka&theme=dark&show_icons=true)
 
 # CONTACT ME ON
                                                           
 ### Bots Channel:
-<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Avieupdate"><img src="https://img.shields.io/badge/Shineka%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
 
 ### Bots Support Group:
-<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Aviesupport"><img src="https://img.shields.io/badge/Shineka%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
                                                               
 ### Social media
                                                               
@@ -103,4 +103,4 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              
 
 #### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{TheShineka}/count.svg)
